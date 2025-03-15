@@ -1,4 +1,4 @@
-/* General Styles */
+
 body {
     display: flex;
     justify-content: center;
@@ -29,7 +29,7 @@ h3 {
     margin-bottom: 20px;
 }
 
-/* Price Input */
+
 .price-input {
     display: flex;
     justify-content: space-between;
@@ -58,7 +58,7 @@ h3 {
     font-size: 14px;
 }
 
-/* Slider */
+
 .slider-container {
     display: flex;
     justify-content: center;
@@ -79,7 +79,7 @@ input[type="range"] {
     position: absolute;
 }
 
-/* 3D Slider Thumb */
+
 input[type="range"]::-webkit-slider-thumb {
     -webkit-appearance: none;
     width: 18px;
